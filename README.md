@@ -33,3 +33,9 @@ Same as v6 but with UI updates.
 ## web.py
 
 Same as v7.
+
+## Example
+
+![1](https://github.com/user-attachments/assets/82eb5755-8bc3-4a74-9854-7dc9fbae0129)
+![2](https://github.com/user-attachments/assets/3500f338-e4b4-4911-95f1-1bf5e25e4eaf)
+![3](https://github.com/user-attachments/assets/457f0ee8-455f-47cc-8960-5189d7ee89ec)
