@@ -18,7 +18,8 @@ def index():
         if 'folder' in request.form:
             current_folder = request.form.get('folder')
             json_files = [f for f in os.listdir(current_folder) if f.endswith('.json')]
-        elif 'file' in request.form:
+        
+        if 'file' in request.form:
             selected_file = request.form.get('file')
             if selected_file:
                 file_path = os.path.join(current_folder, selected_file)

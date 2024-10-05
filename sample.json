@@ -1,0 +1,25 @@
+{
+    "stringType": "Hello, World!",
+    "numberType": 42,
+    "integerType": 7,
+    "floatType": 3.14,
+    "booleanType": true,
+    "nullType": null,
+    "arrayType": [1, 2, 3, 4, 5],
+    "objectType": {
+      "property1": "value1",
+      "property2": 100,
+      "property3": false
+    },
+    "mixedType": [
+      "string",
+      123,
+      true,
+      null,
+      {
+        "nestedObject": "value"
+      },
+      [1, 2, 3]
+    ]
+  }
+  
