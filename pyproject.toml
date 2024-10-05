@@ -1,0 +1,12 @@
+[project]
+name = "jsonviewer"
+version = "0.1.0"
+description = "Claude generated JSON Viewer"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.0.3",
+    "pygments>=2.18.0",
+    "pyqt6>=6.7.1",
+    "tk>=0.1.0",
+]
